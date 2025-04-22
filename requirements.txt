@@ -1,8 +1,9 @@
 fastapi
 uvicorn
 torch
-torchvision
 timm
-numpy
-pillow
 gdown
+pillow
+numpy
+openai
+python-multipart  # required for image uploads
